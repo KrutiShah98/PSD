@@ -44,7 +44,7 @@ gap: 50px;
 
 .head {
     margin: 100px 100px;
-    font-size: 40px;
+    font-size: 30px;
     line-height: 90px;
     color: #ffffff;
     font-weight: 700;
@@ -96,7 +96,8 @@ font-weight: 800;
 font-family: "Archivo";
 text-align: center;
 font-size: 20px;
-padding-bottom: 20px;
+padding-bottom: 100px;
+
 
 }
 .img-row{
@@ -136,8 +137,33 @@ padding-bottom: 20px;
     font-size: 20px;
     font-weight: 400;
 }
-.i1{
+#i1{
     position: absolute;
-  bottom: -3px;
-  left: 60%;
+top: 1266px;
+  right: 450px;
+}
+#i4{
+    position: absolute;
+    left: 102px;
+    top: 904px;
+}
+#i6{
+    position: absolute;
+    top: 874px;
+right: 30px;
+}
+#i5{
+    position: absolute;
+top: 1200px;
+  right: 30px; 
+}
+#i3{
+    position: absolute;
+    top: 1109px;
+      left: 30px;   
+}
+#i2{
+    position: absolute;
+   top:1247px;
+     left: 458px; 
 }
