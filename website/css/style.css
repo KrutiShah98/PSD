@@ -136,7 +136,8 @@ padding-bottom: 20px;
     font-size: 20px;
     font-weight: 400;
 }
-#i1{
+.i1{
     position: absolute;
-    right: 515px;
+  bottom: -3px;
+  left: 60%;
 }
